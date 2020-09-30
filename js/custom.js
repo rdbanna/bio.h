@@ -10,6 +10,8 @@ $(document).ready(function () {
             $('body').addClass('loaded');
         }, 1500);
     });
+	// this is known as object oriented programing
+	
     /*=========================================================================
             Mobile  Menu 
     =========================================================================*/
